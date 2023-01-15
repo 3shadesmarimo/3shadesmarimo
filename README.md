@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @3shadesmarimo
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, My name is Bilegt
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning SwiftUI and C++
+
 
 <!---
 3shadesmarimo/3shadesmarimo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
