@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Bilegt
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning SwiftUI and C++
+
 
 
 <!---
